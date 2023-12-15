@@ -2,7 +2,7 @@
 Inteli - Engenharia de Software | Avaliação 2023-2B P2
 
 
-# Cats and Dogs Vote App
+# Cats and Dogs Vote App 😸 🐶
 
 Abaixo estão as vulnerabilidades identificadas e as medidas adotadas para corrigi-las:
 
