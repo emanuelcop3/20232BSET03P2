@@ -18,10 +18,10 @@ Abaixo estão as vulnerabilidades identificadas e as medidas adotadas para corri
 
 3. **Tratamento de Erros Não Adequado:**
    - **Descrição:** O tratamento de erros nas rotas estava incompleto e poderia expor detalhes de implementação no caso de falhas.
-   - **Medida Corretiva:** Foram implementados tratamentos de erro mais adequados, registrando mensagens genéricas no log e fornecendo respostas de erro ao cliente sem expor detalhes sensíveis.
+   - **Medida Corretiva:** Implementei tratamentos de erro mais adequados, registrando mensagens genéricas no log e fornecendo respostas de erro ao cliente sem expor detalhes sensíveis.
 
 4. **Métodos Não Implementados:**
    - **Descrição:** Algumas rotas e métodos declarados não estavam completamente implementados.
-   - **Medida Corretiva:** Foram implementados todos os métodos que possuíam assinatura no código, garantindo o funcionamento correto de todas as funcionalidades.
+   - **Medida Corretiva:** Implantei todos os métodos que possuíam assinatura no código, garantindo o funcionamento correto de todas as funcionalidades.
 
 
